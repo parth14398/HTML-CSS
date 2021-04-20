@@ -1,0 +1,73 @@
+body{
+  text-align: center;
+  font-size: 15px;
+  background-color:  hsl(0, 0%, 98%);
+  font-family: 'Poppins', sans-serif;
+
+  }
+h1{
+
+  font-size: 260%;
+  width:30%;
+  margin: 50px auto 0 auto;
+}
+h3{
+  color:black;
+}
+.attribution {
+  font-size: 11px; text-align: center;
+ }
+.attribution a {
+  color: hsl(228, 45%, 44%);
+ }
+ .header-main{
+   font-weight: 200;
+ }
+ .first-para{
+  width: 25%;
+   margin: 20px auto;
+   font-weight: 200;
+   color: hsl(229, 6%, 66%);
+ }
+ .box-container{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   padding: 3%;
+
+
+ }
+ .box{
+
+   height: 220px;
+   width: 300px;
+   text-align: left;
+   padding: 20px 40px 40px 40px;
+   color: hsl(229, 6%, 66%);
+   line-height: 1.7;
+   border-radius: 5px;
+   box-shadow: -5px 5px 15px 5px rgba(204, 201, 201, 0.2);
+   background-color: #fff;
+ }
+ .middle-box{
+   margin: 0 25px;
+ }
+ .box1{
+     border-top: 4px solid hsl(180, 62%, 55%);
+ }
+ .box2{
+     border-top: 4px solid hsl(0, 78%, 62%);
+ }
+ .box3{
+  border-top: 4px solid hsl(34, 97%, 64%);
+  margin-top: 25px;
+ }
+ .box4{
+  border-top: 4px solid hsl(212, 86%, 64%);
+ }
+ .icon{
+   margin:10px 10px 10px 250px;
+ }
+
+
+© 2020 GitHub, Inc.
